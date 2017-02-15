@@ -3,32 +3,32 @@ background-color:#000000;
 }
 
 h1 {
-  color:rgb(300,0,0);
+  color:#e00b0b;
   float: center;
 }
 
 h2 {
-  color:rgb(300,0,0);
+  color:#e00b0b;
   float: center;
 }
 
 h3 {
-  color: rgb(300,0,0);
+  color:#e00b0b;
   float: center;
 }
 
 h4 {
-  color:rgb(300,0,0);
+  color:#e00b0b;
   float: center;
 }
 
 h5 {
-  color:rgb(300,0,0);
+  color:#e00b0b;
   float: center;
 }
 
 p {
-  color:rgb(300,0,0);
+  color:#e00b0b;
   border-style: transparent;
   border-width: 450px;
 }
