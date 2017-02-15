@@ -1,9 +1,17 @@
 body
 {background-color:rgb(146, 244, 66);
-background-image: url="http://img2.thejournal.ie/inline/2434312/original/?width=426&version=2434312"
+
 }
 
 h1
-{color:rgb(37, 161, 196);}
+{color:rgb(37, 161, 196);
+float:center;
+  height:50px;
+}
+
+h3 {
+  float:center;
+}
+
 
 
