@@ -25,10 +25,11 @@ h4 {
 h5 {
   color:#e00b0b;
   float: center;
+  height:100px;
 }
 
 p {
   color:#e00b0b;
-  border-style: transparent;
-  border-width: 450px;
+width:450px;
+  float:center;
 }
