@@ -5,12 +5,13 @@ body
 
 h1
 {color:rgb(37, 161, 196);
-float:center;
-  height:50px;
+text-align:center;
+  font-size:100px;
 }
 
 h3 {
-  float:center;
+  text-align:center;
+  
 }
 
 
