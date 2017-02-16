@@ -4,7 +4,8 @@ background-color:#000000;
 
 h1 {
   color:#e00b0b;
-  float: center;
+  text-align: center;
+  font-size: 100px;
 }
 
 h2 {
@@ -19,17 +20,22 @@ h3 {
 
 h4 {
   color:#e00b0b;
-  float: center;
+  text-align: center;
 }
 
 h5 {
   color:#e00b0b;
-  float: center;
+  text-align: center;
   height:100px;
 }
 
 p {
   color:#e00b0b;
 width:450px;
+  text-align:center;
+}
+
+img {
   float:center;
+  height:150px;
 }
