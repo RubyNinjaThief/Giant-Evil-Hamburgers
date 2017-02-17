@@ -20,11 +20,10 @@ a {
 }
 
 img {
-  margin:auto;
   width:350;
 }
 
-li {
+p {
   text-align:center;
   font-size:15px;
   background-color:yellow;
