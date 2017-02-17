@@ -16,16 +16,18 @@ h3 {
 
 a {
   text-align:center;
+  margin:auto;
 }
 
 img {
-  vertical-align:-webkit-baseline-middle;
+  margin:auto;
   width:350;
 }
 
 li {
   text-align:center;
   font-size:15px;
+  background-color:yellow;
 }
 
 
