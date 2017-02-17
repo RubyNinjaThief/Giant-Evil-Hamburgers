@@ -19,7 +19,7 @@ a {
 }
 
 img {
-  float:center;
+  vertical-align:-webkit-baseline-middle;
   width:350;
 }
 
