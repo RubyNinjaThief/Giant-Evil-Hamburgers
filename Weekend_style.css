@@ -1,3 +1,28 @@
-.important {
-  
+.header {
+  height:100px;
+  text-align:center;
+  display:block;
+  margin:auto;
+  color:rgb(146, 244, 66);
+}
+
+h2 {
+ color:rgb(146, 244, 66);
+  text-align:center;
+  display:block;
+  margin:auto;
+}
+
+h3 {
+  color:rgb(146, 244, 66);
+  text-align:center;
+  display:block;
+  margin:auto;
+}
+
+h5 {
+  color:rgb(146, 244, 66);
+  text-align:center;
+  display:block;
+  margin:auto;
 }
