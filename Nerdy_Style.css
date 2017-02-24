@@ -33,11 +33,14 @@ p {
   color:#e00b0b;
 width:450px;
   text-align:center;
+  display:block;
+  margin:auto;
 }
 
 img {
   height:300px;
-  float:center;
+  display:block;
+  margin:auto;
 }
 
 audio {
