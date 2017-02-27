@@ -20,9 +20,10 @@ a {
 }
 
 img {
-  width:350;
+  height:400;
   margin: auto;
   display:block;
+  border-radius:15px;
 }
 
 p {
